@@ -24,4 +24,9 @@ Requirements
 The notebook was written and tested in python version 2.7 and uses the following libraries
 
 - numpy 1.16.3
-- scipy 1.1.0  
+- scipy 1.1.0
+- matplotlib 2.1.1
+- george 0.2.1 (`<https://george.readthedocs.io/en/latest/>`_)
+- emcee 2.2.1
+- corner 2.0.1
+- PyAstronomy 0.11.0
