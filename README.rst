@@ -21,12 +21,13 @@ Alternatively, if the user does not have `jupyter <https://jupyter.org/>`_ insta
 Requirements
 ------------
 
-The notebook was written and tested in python version 2.7 and uses the following libraries
+The notebook was written and tested in python version 2.7 and requires the following libraries
 
 - numpy 1.16.3
 - scipy 1.1.0
+- mpmath 0.19
 - matplotlib 2.1.1
-- george 0.2.1 (`<https://george.readthedocs.io/en/latest/>`_)
-- emcee 2.2.1
-- corner 2.0.1
-- PyAstronomy 0.11.0
+- `george 0.2.1 <https://george.readthedocs.io/en/latest/>`_
+- `emcee 2.2.1 <http://dfm.io/emcee/current/>`_
+- `corner 2.0.1 <https://github.com/dfm/corner.py>`_
+- `PyAstronomy 0.11.0 <https://www.hs.uni-hamburg.de/DE/Ins/Per/Czesla/PyA/PyA/index.html>`_

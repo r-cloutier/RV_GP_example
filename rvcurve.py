@@ -1,5 +1,5 @@
 import numpy as np
-import pylab as plt
+import matplotlib.pyplot as plt
 from PyAstronomy.pyasl import foldAt
 
 
