@@ -23,5 +23,5 @@ Requirements
 
 The notebook was written and tested in python version 2.7 and uses the following libraries
 
-numpy
-scipy
+- numpy 1.16.3
+- scipy 1.1.0  
